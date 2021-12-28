@@ -1,0 +1,266 @@
+.product-container{
+    margin:100px;
+    
+   
+}
+.col-1{
+    width:8.333%;
+    float: left;
+}
+
+.col-2{
+    width:16.666%;
+    float: left;
+}
+
+
+.col-3{
+    width:25%;
+    float: left;
+}
+
+
+.col-4{
+    width: 33.333%;
+    float: left;
+}
+
+
+.col-5{
+    width:41.666%;
+    float: left;
+}
+
+
+.col-6{
+    width:50%;
+    float: left;
+}
+
+
+.col-7{
+    width:58.333%;
+    float: left;
+}
+
+
+.col-8{
+    width:66.666%;
+    float: left;
+}
+
+
+.col-9{
+    width:75%;
+    float: left;
+}
+
+
+.col-10{
+    width:83.333%;
+    float: left;
+}
+
+
+.col-11{
+    width:91.666%;
+    float: left;
+}
+
+
+.col-12{
+    width:100%;
+    float: left;
+}
+
+.image1{
+    width: 150px;
+    padding-left: 130px;
+    
+    
+}
+.image2{
+    width:150px;
+    padding-left: 130px;
+
+    
+}
+.image3{
+    width: 150px;
+    padding-left: 130px;
+    
+}
+
+.b1{
+    background-color: gray;
+   color:#fff;
+    margin:80px;
+    margin-top: 30px;
+    border-radius: 7px 7px 20px 20px; 
+}
+.b2{
+  background-color: gray;
+   color: #fff;
+  margin: 80px;
+  margin-top:40px;
+  border-radius: 7px 7px 20px 20px;
+}
+.b3{
+    background-color: rgba(75, 75, 75, 0.749);
+    color: #fff;
+    margin:80px;
+    margin-top: 35px;
+    border-radius: 7px 7px 20px 20px;
+    
+
+}
+
+
+.p1{
+    font-size: 25px;
+}
+
+.p2{
+    font-size: 25px;
+}
+
+.p3{
+    font-size: 25px;
+    
+} 
+
+.c3{
+    background-color: rgba(9, 9, 9, 0.461);
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+} 
+
+.c1{
+    background-color: rgba(9, 9, 9, 0.461);
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+} 
+
+.c2{
+    background-color: rgba(9, 9, 9, 0.461);
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+} 
+
+.btn3{
+    font-size: 20px;
+    margin-left:65px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;    
+    border-color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+    background-color: rgb(222, 222, 222);
+    color:rgb(50, 49, 49);
+}
+
+.btn2{
+    font-size: 20px;
+    margin-left:65px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;    
+    border-color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+    background-color: rgb(222, 222, 222);
+    color:rgb(50, 49, 49);
+}
+
+
+.btn1{
+    font-size: 20px;
+    margin-left:65px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;    
+    border-color: whitesmoke;
+    font-family: 'EB Garamond', serif;
+    background-color: rgb(222, 222, 222);
+    color:rgb(50, 49, 49);
+}
+
+.col-1{
+    width:8.333%;
+    float: left;
+}
+
+.col-2{
+    width:16.666%;
+    float: left;
+}
+
+
+.col-3{
+    width:25%;
+    float: left;
+}
+
+
+.col-4{
+    width: 33.333%;
+    float: left;
+}
+
+
+.col-5{
+    width:41.666%;
+    float: left;
+}
+
+
+.col-6{
+    width:50%;
+    float: left;
+}
+
+
+.col-7{
+    width:58.333%;
+    float: left;
+}
+
+
+.col-8{
+    width:66.666%;
+    float: left;
+}
+
+
+.col-9{
+    width:75%;
+    float: left;
+}
+
+
+.col-10{
+    width:83.333%;
+    float: left;
+}
+
+
+.col-11{
+    width:91.666%;
+    float: left;
+}
+
+
+.col-12{
+    width:100%;
+    float: left;
+}
+
+.sectext-container{
+    columns:200px 3;
+    column-rule:2px dashed black;
+    
+       
+}
+
